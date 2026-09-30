@@ -1,0 +1,12 @@
+# Built binary (go build)
+/shomer
+
+# Local Claude Code settings and project notes
+.claude/
+CLAUDE.md
+
+# Scan output about real repos stays local
+reports/
+
+# macOS
+.DS_Store
